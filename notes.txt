@@ -1,0 +1,14 @@
+primitive data types:
+1. Number,
+2. string,
+3. boolean
+4. Null,
+5. Undefined
+
+1. string methods:
+1. toUpperCase();
+2. toLowerCase();
+3. trim();
+3. slice();
+5. replace();
+6. indexOf();
